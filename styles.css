@@ -41,6 +41,15 @@ header {
     border: none;
     font-family: inherit;
 }
+/* Extras */
+.og-btn:hover {
+    background-color: #f5de0d;
+    cursor: pointer;
+    color: #1E1E1E;
+    transition-duration: 1s;
+    transition-delay: 0.1s;
+    transform: scale(0.9);
+}
 nav {
     display: flex;
     max-width: 1140px;
